@@ -4,7 +4,7 @@
 - 🌱 Estudante de programação 
 - 📚 Análise e Desenvolvimento De sistemas 02/04
 
-- 📖 Atualmente estudando HTML5, CSS3, JAVASCRIPT E C#
+- 📖 Atualmente estudando HTML5, CSS3, JAVASCRIPT & C#
 
 <div align="center">
   <a href="https://github.com/gucarvalhodev">
