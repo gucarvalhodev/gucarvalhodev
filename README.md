@@ -4,6 +4,8 @@
 - 🌱 Estudante de programação 
 - 📚 Análise e Desenvolvimento De sistemas 02/04
 
+- 📖 Atualmente estudando HTML5, CSS3, JAVASCRIPT E WORDPRESS
+
 <div align="center">
   <a href="https://github.com/gucarvalhodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gucarvalhodev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
