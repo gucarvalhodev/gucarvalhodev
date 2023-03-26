@@ -1,8 +1,5 @@
 ### Olá, eu me chamo Gustavo!
 
-
-**gucarvalhodev/gucarvalhodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estudante de programação 
 - 📚 Análise e Desenvolvimento De sistemas 02/04
